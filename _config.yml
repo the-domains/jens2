@@ -1,0 +1,28 @@
+name: Jens2
+favicon: null
+layout_spectrum: 0.701844435185194
+typography_spectrum: 0.47988167381845415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3151343581266701
+  lightness: 0.8269680365920067
+  saturation: 0.27163657918572426
+  rhythmicContrast: 0.5668405089527369
+purpose: []
